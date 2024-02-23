@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd902252-8a9a-4fa5-a810-215897d2f92a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aircraft/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aircraft/CargoPlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aircraft/VTOL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boats/Boat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boats/Jetski.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boats/Yacht.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cars/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cars/FerrariF1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cars/FordF650.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Spacecraft/FalconHeavy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Spacecraft/Satellite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Spacecraft/Spacecraft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vehicle/Speedometer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vehicle/Vehicle.java" afterDir="false" />
+    <list default="true" id="bd902252-8a9a-4fa5-a810-215897d2f92a" name="Changes" comment="Done">
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +57,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708548660494</updated>
     </task>
+    <task id="LOCAL-00001" summary="Done">
+      <option name="closed" value="true" />
+      <created>1708718415237</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708718415237</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done" />
   </component>
 </project>
